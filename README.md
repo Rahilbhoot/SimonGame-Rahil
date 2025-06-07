@@ -73,5 +73,3 @@ Made with ❤️ by **Rahil Bhoot**
 ## 💬 Feedback
 
 If you like the game or want to suggest improvements, feel free to open an issue or contact me. Contributions are always welcome!
-
-```
